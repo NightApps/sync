@@ -1,1 +1,0 @@
-../../../IntelliJIDEAProjects/Sync/app/

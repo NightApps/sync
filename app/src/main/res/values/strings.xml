@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sync</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Main</string>
+    <string name="section1">Open username or channel</string>
+    <string name="section2">About Night</string>
+</resources>
